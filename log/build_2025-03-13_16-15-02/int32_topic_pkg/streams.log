@@ -1,0 +1,39 @@
+[0.380s] Invoking command in '/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/src/int32_topic_pkg': PYTHONPATH=/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/int32_topic_pkg build --build-base /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build install --record /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/install.log --single-version-externally-managed install_data
+[0.499s] running egg_info
+[0.499s] creating ../../build/int32_topic_pkg/int32_topic_pkg.egg-info
+[0.499s] writing ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/PKG-INFO
+[0.499s] writing dependency_links to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/dependency_links.txt
+[0.499s] writing entry points to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/entry_points.txt
+[0.499s] writing requirements to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/requires.txt
+[0.499s] writing top-level names to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/top_level.txt
+[0.499s] writing manifest file '../../build/int32_topic_pkg/int32_topic_pkg.egg-info/SOURCES.txt'
+[0.500s] reading manifest file '../../build/int32_topic_pkg/int32_topic_pkg.egg-info/SOURCES.txt'
+[0.500s] writing manifest file '../../build/int32_topic_pkg/int32_topic_pkg.egg-info/SOURCES.txt'
+[0.500s] running build
+[0.500s] running build_py
+[0.501s] creating /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build
+[0.501s] creating /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib
+[0.501s] creating /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg
+[0.501s] copying int32_topic_pkg/__init__.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg
+[0.501s] copying int32_topic_pkg/int32_publischer.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg
+[0.501s] copying int32_topic_pkg/int32_subscriber.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg
+[0.501s] running install
+[0.501s] running install_lib
+[0.501s] creating /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg
+[0.501s] copying /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg/__init__.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg
+[0.501s] copying /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg/int32_publischer.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg
+[0.501s] copying /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg/int32_subscriber.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg
+[0.501s] byte-compiling /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg/__init__.py to __init__.cpython-310.pyc
+[0.501s] byte-compiling /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg/int32_publischer.py to int32_publischer.cpython-310.pyc
+[0.502s] byte-compiling /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg/int32_subscriber.py to int32_subscriber.cpython-310.pyc
+[0.502s] running install_data
+[0.502s] creating /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/share/ament_index
+[0.502s] creating /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/share/ament_index/resource_index
+[0.502s] creating /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/share/ament_index/resource_index/packages
+[0.502s] copying resource/int32_topic_pkg -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/share/ament_index/resource_index/packages
+[0.502s] copying package.xml -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/share/int32_topic_pkg
+[0.502s] running install_egg_info
+[0.503s] Copying ../../build/int32_topic_pkg/int32_topic_pkg.egg-info to /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg-0.0.0-py3.10.egg-info
+[0.503s] running install_scripts
+[0.514s] writing list of installed files to '/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/install.log'
+[0.526s] Invoked command in '/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/src/int32_topic_pkg' returned '0': PYTHONPATH=/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/int32_topic_pkg build --build-base /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build install --record /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/install.log --single-version-externally-managed install_data

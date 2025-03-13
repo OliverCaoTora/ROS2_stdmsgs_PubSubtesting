@@ -1,0 +1,25 @@
+[0.303s] Invoking command in '/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/src/int32_topic_pkg': PYTHONPATH=/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/int32_topic_pkg build --build-base /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build install --record /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/install.log --single-version-externally-managed install_data
+[0.420s] running egg_info
+[0.420s] writing ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/PKG-INFO
+[0.420s] writing dependency_links to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/dependency_links.txt
+[0.420s] writing entry points to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/entry_points.txt
+[0.421s] writing requirements to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/requires.txt
+[0.421s] writing top-level names to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/top_level.txt
+[0.421s] reading manifest file '../../build/int32_topic_pkg/int32_topic_pkg.egg-info/SOURCES.txt'
+[0.422s] writing manifest file '../../build/int32_topic_pkg/int32_topic_pkg.egg-info/SOURCES.txt'
+[0.422s] running build
+[0.422s] running build_py
+[0.422s] copying int32_topic_pkg/int32_publischer.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg
+[0.422s] running install
+[0.422s] running install_lib
+[0.422s] copying /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg/int32_publischer.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg
+[0.423s] byte-compiling /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg/int32_publischer.py to int32_publischer.cpython-310.pyc
+[0.423s] running install_data
+[0.423s] running install_egg_info
+[0.424s] removing '/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.424s] Copying ../../build/int32_topic_pkg/int32_topic_pkg.egg-info to /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg-0.0.0-py3.10.egg-info
+[0.424s] running install_scripts
+[0.434s] Installing int32_publischer script to /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/int32_topic_pkg
+[0.434s] Installing int32_subscriber script to /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/int32_topic_pkg
+[0.434s] writing list of installed files to '/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/install.log'
+[0.446s] Invoked command in '/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/src/int32_topic_pkg' returned '0': PYTHONPATH=/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/int32_topic_pkg build --build-base /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build install --record /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/install.log --single-version-externally-managed install_data

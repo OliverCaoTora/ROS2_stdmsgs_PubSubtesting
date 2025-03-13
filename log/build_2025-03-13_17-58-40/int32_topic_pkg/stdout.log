@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/requires.txt
+writing top-level names to ../../build/int32_topic_pkg/int32_topic_pkg.egg-info/top_level.txt
+reading manifest file '../../build/int32_topic_pkg/int32_topic_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/int32_topic_pkg/int32_topic_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying int32_topic_pkg/int32_publischer.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg
+running install
+running install_lib
+copying /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/build/lib/int32_topic_pkg/int32_publischer.py -> /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg
+byte-compiling /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg/int32_publischer.py to int32_publischer.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/int32_topic_pkg/int32_topic_pkg.egg-info to /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/python3.10/site-packages/int32_topic_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing int32_publischer script to /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/int32_topic_pkg
+Installing int32_subscriber script to /home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/install/int32_topic_pkg/lib/int32_topic_pkg
+writing list of installed files to '/home/doraoliver/Studium/ros_study/ros_test/test_int32_ws/build/int32_topic_pkg/install.log'

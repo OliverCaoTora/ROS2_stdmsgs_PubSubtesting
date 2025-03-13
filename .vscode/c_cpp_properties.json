@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/doraoliver/git/opo-interface/colcon_ws/install/opo_messaging/include/**",
+        "/home/doraoliver/git/opo-interface/colcon_ws/install/industrial_msgs/include/**",
+        "/home/doraoliver/git/sereact/capto/third_parties/colcon_ws/install/motoros2_interfaces/include/**",
+        "/home/doraoliver/git/sereact/capto/third_parties/colcon_ws/install/industrial_msgs/include/**",
+        "/home/doraoliver/git/sereact/capto/third_parties/capto_ws/install/sereact_custom_messaging/include/**",
+        "/home/doraoliver/git/sereact/capto/third_parties/capto_ws/install/motoros2_interfaces/include/**",
+        "/home/doraoliver/git/sereact/capto/third_parties/capto_ws/install/industrial_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

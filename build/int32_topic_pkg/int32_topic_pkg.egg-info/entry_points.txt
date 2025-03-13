@@ -1,0 +1,4 @@
+[console_scripts]
+int32_publischer = int32_topic_pkg.int32_publischer:main
+int32_subscriber = int32_topic_pkg.int32_subscriber:main
+

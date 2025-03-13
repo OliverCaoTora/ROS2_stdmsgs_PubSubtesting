@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/doraoliver/git/opo-interface/colcon_ws/install/opo_messaging/local/lib/python3.10/dist-packages",
+        "/home/doraoliver/git/opo-interface/colcon_ws/install/industrial_msgs/local/lib/python3.10/dist-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/colcon_ws/install/motoros2_interfaces/lib/python3.10/site-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/colcon_ws/install/industrial_msgs/lib/python3.10/site-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/capto_ws/install/sereact_custom_messaging/lib/python3.10/site-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/capto_ws/install/motoros2_interfaces/lib/python3.10/site-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/capto_ws/install/industrial_msgs/lib/python3.10/site-packages",
+        "/opt/openrobots/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/doraoliver/git/opo-interface/colcon_ws/install/opo_messaging/local/lib/python3.10/dist-packages",
+        "/home/doraoliver/git/opo-interface/colcon_ws/install/industrial_msgs/local/lib/python3.10/dist-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/colcon_ws/install/motoros2_interfaces/lib/python3.10/site-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/colcon_ws/install/industrial_msgs/lib/python3.10/site-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/capto_ws/install/sereact_custom_messaging/lib/python3.10/site-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/capto_ws/install/motoros2_interfaces/lib/python3.10/site-packages",
+        "/home/doraoliver/git/sereact/capto/third_parties/capto_ws/install/industrial_msgs/lib/python3.10/site-packages",
+        "/opt/openrobots/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
